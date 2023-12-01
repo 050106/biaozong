@@ -1,0 +1,37 @@
+{
+  "id": "4353823",
+  "name": "云顶2",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "5387579",
+      "name": "箭头_切换左",
+      "font_class": "jiantou_qiehuanzuo",
+      "unicode": "eb06",
+      "unicode_decimal": 60166
+    },
+    {
+      "icon_id": "1803032",
+      "name": "zhuanzhang",
+      "font_class": "zhuanzhang",
+      "unicode": "e62a",
+      "unicode_decimal": 58922
+    },
+    {
+      "icon_id": "650766",
+      "name": "规范－加号",
+      "font_class": "guifanjiahao",
+      "unicode": "e629",
+      "unicode_decimal": 58921
+    },
+    {
+      "icon_id": "2488440",
+      "name": "感叹号中",
+      "font_class": "gantanhaozhong",
+      "unicode": "e8e5",
+      "unicode_decimal": 59621
+    }
+  ]
+}
